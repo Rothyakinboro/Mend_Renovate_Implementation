@@ -65,3 +65,8 @@ Before you begin, ensure you have the following:
 ## Conclusion
 
 By following this guide, you can effectively implement Mend Renovate in your repositories to automate dependency updates, enhance code quality, and reduce manual overhead. The tool not only simplifies dependency management but also ensures your projects remain secure, up-to-date, and efficient.
+
+## References/Resources
+- https://docs.renovatebot.com/
+- https://www.youtube.com/watch?v=HbKIqK5L8-E
+- https://www.youtube.com/watch?v=l0YH557eIiE
